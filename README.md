@@ -1,8 +1,8 @@
 # calculadora
 calculadora usando IF ELSE e background.
  
- int result;
-            
+           
+           int result;
            
             Console.WriteLine("Digite um número: ");
             string tmp = Console.ReadLine();
